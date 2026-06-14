@@ -1,0 +1,72 @@
+{
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\package.json": {
+    "mtime": 1781306900.3855941,
+    "ast_hash": "7accb9b56ce6681364cba3b7810b1f26",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\tsconfig.app.json": {
+    "mtime": 1781306924.5356183,
+    "ast_hash": "76004342921a28c803a178e6b5ecef93",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\tsconfig.json": {
+    "mtime": 1781306900.5887146,
+    "ast_hash": "cebcd0aef9a53b9c724ac53266f03437",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\tsconfig.node.json": {
+    "mtime": 1781306924.625252,
+    "ast_hash": "af4b44f148e1896d2423ab8b74ecd548",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\vite.config.ts": {
+    "mtime": 1781306900.8992393,
+    "ast_hash": "9bf09b6d97edba4eebf0fe93baaad662",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\src\\App.tsx": {
+    "mtime": 1781456394.173869,
+    "ast_hash": "ae0f07aafb572143b28ad6b7d86ed1ff",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\src\\main.tsx": {
+    "mtime": 1781306901.099461,
+    "ast_hash": "48754d00058c1719cba159718852b29a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\index.html": {
+    "mtime": 1781306900.4797819,
+    "ast_hash": "fc422f684a509ea8cf80a92ff814360e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\README.md": {
+    "mtime": 1781456578.6452618,
+    "ast_hash": "6efbb5aa2ffdb56dca631965c1d95b73",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\public\\actus-logo-dark.svg": {
+    "mtime": 1781306852.0057075,
+    "ast_hash": "a25a9e7545cd1a291368275c42e7059b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\public\\actus-logo-neon.svg": {
+    "mtime": 1781385367.4784274,
+    "ast_hash": "135be5fb682a03fd672c72f7cfa35dc1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\public\\actus-text.svg": {
+    "mtime": 1781306838.9854066,
+    "ast_hash": "c0720a954a230bef16d8697b07288ca0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\public\\actus-vertical.svg": {
+    "mtime": 1781306862.924197,
+    "ast_hash": "a440eb9775175b3986452ff245335b6a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\nogal\\OneDrive\\Documentos\\Actus FIT\\Actus-site\\public\\professional-training.jpg": {
+    "mtime": 1781396795.194906,
+    "ast_hash": "941c900771ae068b5324f8a6aee93ad8",
+    "semantic_hash": ""
+  }
+}

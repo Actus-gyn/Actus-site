@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+desktop-preview.png
+mobile-preview.png
+*-preview.png
+.DS_Store
+Thumbs.db

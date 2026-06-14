@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2186 2393" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2828.439755,-2320.359923)">
+        <g id="logo-isolado" serif:id="logo isolado" transform="matrix(2.111162,0,0,2.722252,8264.915308,-14146.721468)">
+            <rect x="-2575.111" y="6049.067" width="1035.074" height="878.836" style="fill:rgb(203,254,0);fill-opacity:0;"/>
+            <g transform="matrix(1.505377,0,0,1.167451,-2843.742874,5918.199692)">
+                <path d="M511.465,219.373C513.776,221.532 850.005,757.368 850.005,757.368L756.465,757.602L481.004,526.581L517.499,476.991L655.939,593.543L512.087,388.831L216.293,757.02L194.476,757.368C194.476,757.368 486.046,258.584 511.465,219.373Z" style="fill:rgb(20,20,20);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
